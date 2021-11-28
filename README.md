@@ -23,5 +23,7 @@ The rules are quite simple!
 ### References
 
 [pygame](https://www.pygame.org/wiki/GettingStarted)
+
 --------------------------------------------------------------------------------------------------------------
+
 [snake_tutorial](https://www.edureka.co/blog/snake-game-with-pygame/)
